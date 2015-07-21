@@ -21,7 +21,7 @@
     
     // check to see if 2 seconds have passed
     
-    if (timeSinceObstacle > 2.0f)
+    if (timeSinceObstacle > 5.0f)
     {
         // add a new obstacle
         
